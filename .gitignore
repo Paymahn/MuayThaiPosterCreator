@@ -10,3 +10,9 @@ __pycache__/
 
 # Google Cloud SDK
 .gcloud/
+
+# Local function for cloud uploads.
+.upload_assets.py
+.convert_flags.py
+.rename_flags.py
+
